@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Victor Fabián Grandinetti</h1>
-<h3 align="center">Frontend developer and UX/UI designer. 
-I also have a degree in Sociology and a postgraduate degree in Society and Environment, both from the University of Buenos Aires (UBA). Finally, I am an Environmental Management Technician from the Siglo 21 University.</h3>
+<h3 align="center">UX/UI designer and frontend developer. I have ten years of experience in the administration and management of teams. I also have a degree in Sociology and a postgraduate degree in Environmental and Social Risk Management, both from the University of Buenos Aires (UBA). Finally, I completed the studies for Environmental Technology and Management from the SIGLO 21 University.</h3>
 
 - 🔭 I’m currently working on [the creation of an e-commerse website, with JavaScript and Python.](https://github.com/BrianLeoGoldman/CodoACodo.git)
 
-- 🌱 I’m currently learning **Python and advanced UX/UI design (Writing and Research).**
+- 🌱 At the moment, I’m learning **Python and advanced UX/UI design (Writing and Research). Also, I’m expanding my knowledge in React.**
 
-- 👯 I’m collaborating in **the artistic development of an independent videogame.**
+- 👯 I’m part of **the direction and production of an independent videogame. Additionally, I am in charge of the artistic design.**
 
 - 💬 Ask me about **my photography and filmmaking projects.**
 
